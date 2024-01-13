@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshedsiam03&label=Profile%20views&color=0e75b6&style=flat" alt="morshedsiam03" /> </p>
 
 
-- 🔭 I’m currently working on **MVC .NET**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ASP .NET MVC, Python, C++, Html, CSS**
+- 🌱 I’m currently learning ** Javascript, Html, CSS**
 
-- 👯 I’m looking to collaborate on **Code Lab**
+- 👯 I’m looking to collaborate on **Programming Hero**
 
 - 📫 How to reach me **morshedsiam33@gmail.com**
 
