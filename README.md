@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morshedsiam03&label=Profile%20views&color=0e75b6&style=flat" alt="morshedsiam03" /> </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=al-imam&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
 - 🔭 I’m currently working on **Web Development**
