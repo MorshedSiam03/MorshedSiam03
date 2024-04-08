@@ -7,9 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=MorshedSiam03&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Javascript, Html, CSS**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Programming Hero**
 
