@@ -7,14 +7,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=MorshedSiam03&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on **Javascript**
+_*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends!*_
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Programming Hero**
-
-- 📫 How to reach me **morshedsiam33@gmail.com**
-
+- 🔭 I’m currently working on React.
+- 👯 I’m looking to collaborate on single page application.
+- 🌱 I’m currently exploring NextJS and SQL.
+- 💬 Ask me about TypeScript and React.
+- ⚡ Reach Me: morshedsiam33@gmail.com
 
 ## Skills
 
