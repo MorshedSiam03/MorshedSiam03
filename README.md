@@ -15,6 +15,35 @@
 
 - 📫 How to reach me **morshedsiam33@gmail.com**
 
+
+## Skills
+
+### Most comfortable with
+
+<div>
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,typescript,express" />
+</div>
+
+### Comprehensive skill set
+
+<div>
+    <img src="https://skillicons.dev/icons?i=nextjs,mysql,mongodb,nodejs,sequelize,redux,styledcomponents&perline=4" />
+</div>
+
+### Familiar with
+
+<div>
+    <img src="https://skillicons.dev/icons?i=nestjs,docker,firebase&perline=4" />
+</div>
+
+### Tools
+
+<div>
+    <img src="https://skillicons.dev/icons?i=vscode,bash,github,git,linux,vite,figma&perline=4" />
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@morshedsiam03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@morshedsiam03" height="30" width="40" /></a>
