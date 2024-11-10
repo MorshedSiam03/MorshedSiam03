@@ -12,7 +12,7 @@ _*A web developer focused on React, TailwindCSS, TypeScript and Express. Excited
 - 🔭 I’m currently working on React.
 - 👯 I’m looking to collaborate on single page application.
 - 🌱 I’m currently exploring NextJS and SQL.
-- 💬 Ask me about TypeScript and React.
+- 💬 Ask me about JavaScript and React.
 - ⚡ Reach Me: morshedsiam33@gmail.com
 
 ## Skills
